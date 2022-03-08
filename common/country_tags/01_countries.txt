@@ -1,0 +1,3 @@
+SZK = "countries/Szekelyfold.txt"
+KRF = "countries/Kyralyfold.txt"
+TRA = "countries/Transylvania.txt"
