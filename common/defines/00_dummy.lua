@@ -43,3 +43,6 @@ NDefines.NReligion.PICK_GOLDEN_BULL_COST = 500 -- from 400
 
 -- Custom defines for army drill
 NDefines.NMilitary.ARMY_DRILL_YEARLY_DECAY = -0.5 -- from -1
+
+-- Custom defines to buff cavalry
+NDefines.NMilitary.CAVALRY_COST = 23 -- from 25
