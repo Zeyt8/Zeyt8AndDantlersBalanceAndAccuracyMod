@@ -244,6 +244,10 @@ danube_area = {
 	4942 4943
 }
 
+po_area = {
+	4944
+}
+
 #Lakes:
 #Listed by themselves in order to be easier to remove if needed.
 
