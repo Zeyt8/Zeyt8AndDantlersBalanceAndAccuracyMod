@@ -240,6 +240,10 @@ bahama_channel_area = {
 	1503 1505 1524 1525
 }
 
+danube_area = {
+	4942 4943
+}
+
 #Lakes:
 #Listed by themselves in order to be easier to remove if needed.
 
