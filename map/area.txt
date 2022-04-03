@@ -248,6 +248,18 @@ po_area = {
 	4944
 }
 
+thames_area = {
+	4945
+}
+
+seine_area = {
+	4946
+}
+
+rhine_area = {
+	4947 4948
+}
+
 #Lakes:
 #Listed by themselves in order to be easier to remove if needed.
 
