@@ -50,3 +50,7 @@ NDefines.NMilitary.CAVALRY_COST = 23 -- from 25
 
 -- Custom defines to national idea aquisition
 NDefines.NCountry.FREE_IDEA_GROUP_COST = 4 -- from 3
+
+-- Reduce mercenary late game cost --
+NDefines.NEconomy.LAND_TECH_MERC_MAINTENANCE_IMPACT = 0.08 -- from 0.08
+NDefines.NEconomy.MERCENARY_COMPANY_MAX_REGIMENTS = 40 -- from 60
