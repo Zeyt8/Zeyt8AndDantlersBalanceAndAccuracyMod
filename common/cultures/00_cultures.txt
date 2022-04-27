@@ -1871,6 +1871,13 @@ south_slavic = {
 			"Krum" "Dulo" "Cometopuli" "Asen" "Terter" "Shishman" "Teleki"
 		}
 	}
+	dynasty_names = { 
+		"Trpimirovic" "Svetoslavic" "Kosovic" "Kresimirovic" "Zrinski" "Domagojevic" "Hrvatinic" "Kotromanic" "Brankovic" "Lazarevic" "Ibrahimovic"
+	}
+}
+
+albanian_group = {
+	graphical_culture = easterngfx
 	albanian = {
 		primary = ALB
 		male_names = {

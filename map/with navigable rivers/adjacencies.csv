@@ -103,4 +103,25 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 4937;1242;sea;1431;-1;-1;-1;-1;Lau-Viti Levu
 1242;4938;sea;1431;-1;-1;-1;-1;Vitu Levu-Vanua Levu
 631;627;sea;1354;-1;-1;-1;-1;Bali-Blambangan
+4531;4704;sea;4942;-1;-1;-1;-1;Giurgiu-Tarnovo
+4531;150;sea;4942;-1;-1;-1;-1;Giurgiu-Nigbolu
+160;150;sea;4942;-1;-1;-1;-1;Oltenia-Nigbolu
+160;2746;sea;4942;-1;-1;-1;-1;Oltenia-Vidin
+4532;2746;sea;4942;-1;-1;-1;-1;Severin-Vidin
+2998;4704;sea;4942;-1;-1;-1;-1;Buzau-Tarnovo
+2998;159;sea;4942;-1;-1;-1;-1;Buzau-Silistre
+2998;4706;sea;4942;-1;-1;-1;-1;Buzau-Tulcea
+1756;4706;sea;4942;-1;-1;-1;-1;Basarabia-Tulcea
+4530;4706;sea;4942;-1;-1;-1;-1;Barlad-Tulcea
+156;2746;sea;4943;-1;-1;-1;-1;Timis-Vidin
+156;4176;sea;4943;-1;-1;-1;-1;Timis-Branicevo
+1954;4176;sea;4943;-1;-1;-1;-1;Tronotal-Branicevo
+1954;141;sea;4943;-1;-1;-1;-1;Torontal-Smederevo
+1954;4239;sea;4943;-1;-1;-1;-1;Torontal-Belgrad
+1954;4173;sea;4943;-1;-1;-1;-1;Torontal-Szerem
+4126;4173;sea;4943;-1;-1;-1;-1;Bacs-Szerem
+4126;1864;sea;4943;-1;-1;-1;-1;Bacs-Somogy
+153;1864;sea;4943;-1;-1;-1;-1;Pest-Somogy
+4126;1767;sea;4943;-1;-1;-1;-1;Bacs-Slavonia
+84;1760;sea;4948;-1;-1;-1;-1;Berg-Coblenz
 -1;-1;;-1;-1;-1;-1;-1;-1;
