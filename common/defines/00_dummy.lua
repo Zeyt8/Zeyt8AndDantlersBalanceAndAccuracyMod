@@ -32,15 +32,15 @@ NDefines.NCountry.PS_NAVAL_BARRAGE = 40 -- from 50
 
 -- Custom defines to increase army and navy maintenance
 
-NDefines.NEconomy.LAND_TECH_MAINTENANCE_IMPACT = 0.03 -- from 0.02
-NDefines.NEconomy.NAVAL_TECH_MAINTENANCE_IMPACT = 0.03 -- from 0.02
+--NDefines.NEconomy.LAND_TECH_MAINTENANCE_IMPACT = 0.03 -- from 0.02
+--NDefines.NEconomy.NAVAL_TECH_MAINTENANCE_IMPACT = 0.03 -- from 0.02
 
 -- Custom defines to increase inflation from gold and treasure fleets
 NDefines.NEconomy.GOLD_INFLATION = 0.75 -- from 0.5
 NDefines.NEconomy.TREASURE_FLEET_INFLATION = 0.75 -- from 0.5
 
 -- Reduce mercenary late game cost --
-NDefines.NEconomy.LAND_TECH_MERC_MAINTENANCE_IMPACT = 0.08 -- from 0.08
+--NDefines.NEconomy.LAND_TECH_MERC_MAINTENANCE_IMPACT = 0.08 -- from 0.08
 NDefines.NEconomy.MERCENARY_COMPANY_MAX_REGIMENTS = 40 -- from 60
 
 
