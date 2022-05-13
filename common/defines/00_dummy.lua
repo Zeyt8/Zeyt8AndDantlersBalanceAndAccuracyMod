@@ -59,6 +59,8 @@ NDefines.NMilitary.FRONT_LINE_MODIFIER = 1.5 -- from 1.0
 NDefines.NMilitary.BACK_LINE_MODIFIER = 0.75 -- from 0.5
 NDefines.NMilitary.CANNOT_RETREAT_DAYS = 6 -- from 12
 
+NDefines.NMilitary.SIEGE_ATTRITION = 2 -- from 1
+
 -- NAI --
 
 -- Custom defines for AI
