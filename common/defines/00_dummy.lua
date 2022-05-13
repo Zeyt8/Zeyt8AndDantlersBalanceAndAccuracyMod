@@ -55,8 +55,8 @@ NDefines.NMilitary.CAVALRY_COST = 23 -- from 25
 -- Custom defines to make combat faster:
 NDefines.NMilitary.DAYS_PER_PHASE = 2 -- from 3
 NDefines.NMilitary.DAYS_PER_SIEGE_PHASE = 20 -- from 30
-NDefines.NMilitary.FRONT_LINE_MODIFIER = 2.0 -- from 1.0
-NDefines.NMilitary.BACK_LINE_MODIFIER = 1.0 -- from 0.5
+NDefines.NMilitary.FRONT_LINE_MODIFIER = 1.5 -- from 1.0
+NDefines.NMilitary.BACK_LINE_MODIFIER = 0.75 -- from 0.5
 NDefines.NMilitary.CANNOT_RETREAT_DAYS = 6 -- from 12
 
 -- NAI --
