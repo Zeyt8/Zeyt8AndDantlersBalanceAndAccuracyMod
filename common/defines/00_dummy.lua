@@ -26,7 +26,8 @@ NDefines.NCountry.FREE_IDEA_GROUP_COST = 4 -- from 3
 NDefines.NCountry.PS_ASSAULT = 5
 NDefines.NCountry.PS_ARTILLERY_BARRAGE = 40 -- from 50
 NDefines.NCountry.PS_NAVAL_BARRAGE = 40 -- from 50
-
+NDefines.NCountry.PS_GARRISON_SORTIES = 5 -- from 10
+NDefines.NCountry.PS_FORCE_MARCH = 1 -- from 2
 
 -- NEconomy --
 
