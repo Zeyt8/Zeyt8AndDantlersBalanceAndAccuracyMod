@@ -221,6 +221,49 @@ germanic = {
 	}
 	transylvanian_saxon = {
 		primary = KRF
+		male_names = {
+			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
+			Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
+			Andreas Bruno Burkhard Günther HermannLukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
+			Alwin Adémar Alwin Adolf Albert Albrecht Arnold Baltasar
+			Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
+			Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
+			Erik Albert Ewald Frederick Gerard Gebhard Giselmar Gottschalk Günther Hans 
+			Heideke Herbert Hermann Hinrik Jacob Jaspar Caspar Jochim Joakim Johann Kersten 
+			Christian Laurentz Lambert Liawizo Liemar Liudger Otto Ludolf Ludwig
+			Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 
+			Peter Philip Renard Reinmar Roger Rudolf Ralph Sigbert Sigisbert
+			Sigfrid Siegfried Sigward Sigurd Simon Steffen Thomas Waldemar
+			Werner Victor Werneke Weybrecht Wichbert Wichmann Wigebert Wolter Walter Wulff Ulf
+		}
+		female_names = { 
+			Amalia Bianka Eleonora
+			Agatha Balthild
+			Christina Cuthburg 
+			Cynehild Cyneswith Cynethryth Eadburg Edith 
+			Gunhilda Gunhild Helga Judith
+			Maud Matilda Sigri 
+			Wulfhild
+			Addila Adela Adelheid Alof Agnes Anna Athela Beatrix Beatrice Bertha Bertha 
+			Bertrada Bia Beatrice Bisina Bithild Brigida Brigid Elisabeth 
+			Elisabeth Enda Gertrud Gisela
+			Hedwig Heilwig Helene Hildegard Ida Emma Irmgard 
+			Judith Katharina
+			Margarete Mathilde Matilda Mechthild Reginlint 
+			Richardis Ricarda Rodelinda Sophia Sophia Suanhilde Swanahild Wienke 
+			Wiltrud Wulfhild Ulfhild
+		}
+		dynasty_names = {
+			"von Schwarzburg" "von Schönburg" "von Schlotheim" "von Salza" "von Kospoth"
+			"von Knuth" "von Wettin" "Askanier" "von Hohenzollern" "von Erffa" "von Bodungen" "von Eckersberg" "von Brandenstein" "von Pappenheim" "von Wiehe"
+			"von Westernhagen" "von Jena" "von Trützschler" "von Plessen" "von Haugwitz" "von Kanitz" "von Falkenhayn" "von Thüna"
+			"von Thüringen" "von Nostitz" "von Bieberstein" "von Meerheimb" "von Freiberg" "von Neitschütz" "von Minckwitz" "von Arnswaldt" "von Auerswald" "aus dem Winckel"
+			"von Beichlingen" "von Bendeleben" "von Beneckendorff"  "von Berbisdorf" "von Bissingen" "von Bock" "von Bomsdorff" "von Bose" "von Breitenbach"
+			"von Breitenbuch" "von Brühl" "von Bünau" "von Hoym" "Holtzendorff" "von Hohenthal" "von Heynitz" "von Hessler" "von Helldorff" "von Harling" "von Görschen" "von Glaubitz"
+			"von Gfug" "von Gersdorff" "von Germar" "von Fritsch" "von Friesen" "von Flanss" "von Etzdorff" "von Erdmannsdorff" "von Einsiedel" "von Dyhrn" "von Dieskau" "von Creytzen" "von Carlowitz" "von Maltitz" "von Mansfeld" "von Miltitz" "von Mücheln" "von Pflugk" "von Pölnitz" "von Ponickau" "von Rackel"
+			"von Raumer" "von Rechenberg" "von Rex" "Sack" "von Scheidingen" "von Schleinitzstrasse" "von Schönberg" "Senfft von Pilsach" "von Stolberg" "von Kannewurf" "Karras" "von Keller" "von Kirchbach" "von Sternberg" "von Leisnig"
+			"von Liebenau" "von Loeben" "von Logau" "von Lüttichau" "von Taube" "von Tettau" Vitzthum "von Wolffersdorff" Wöhrmann "von Werthern" "von Wackerbarth" "von Bredow" "von Brandt"
+		}
 	}
 	dutch = {
 		primary = NED
@@ -592,7 +635,25 @@ scandinavian = { #Nordic
 			Michelsen Morthens Moeller Nielsen Nordahl Olsen Petersen Riis Scheving Schioeth Schram Sigurdsson Stephensen Thorarensen Thorlacius Thoroddsen Vidalin Waage Wathne Wiium Zoega
 		}
 	}
-
+	faroese = {
+		male_names = {
+			Andreas Arnaldur Arnmundur Ari Axel Baldur Bjargmundur Bernhard Benedikt Brynjar Carl Cecil Christian Christopher Cyrus Daggeir Daniel Dvalinn Draupnir Dufgus Egill Erlendur Esra Eymundur Eyvindur Fenrir 
+			Finngeir Floki Francis Frosti Geirfinnur Grímkell Gunnar Gunnlaugur Gustav Hagar Hafthor Hildimundur Hrafnkell Huginn Hakon Ingar Ingibjartur Ingimundur Ismael Ivar Jani Jesper Johan Jonmundur Jorgen Kalmar 
+			Kasper Kornelius Kjartan Kristmundur Lars  Leonhard Lindberg Ljotur Loki Magni Manfred Merlin Muninn Mikael Nanni Nikolas Njall Nonni Norbert Oddgeir Oddvar Olaf Odinn Ormur Patrekur Per Petur Palli Rafael 
+			Ragnar Rolf Rudolf Rurik Safir Snorri Steinfinnur Svanmundur Soren Teitur Thor Thorvald Torfi Tristan Ulrich Unnar Uddur Valbergur Vermundur Vignir Vilbergur Vilmundur Walter Wilhelm Willard William Willum 
+			Ylur Ymir Yngvar Yngvi Yrar Yrkill
+		}
+		female_names = {
+			Aldinborg Alexandra Arja Astrid Aurora Benediktína Bergey Birgitta Bogga Brynja Camilla Catarina Charlotte Cicilia Clara Dagmar Daldis Dara Donna Droplaug Dyrunn Edith Elektra Eleonora Esmeralda Esther Filippa 
+			Finney Freydís Freyja Frigg Geira Gissunn Greta Gunndis Gunnur Hallbera Helga Herborg Hulda Hertha Ida Ingeborg Ingunn Inna Irja Jakobína Jara Jensina Judit Justina Kamilla Kata Kendra Kristin Kolfinna Lena Lillian 
+			Linda Lotta Lydia Magdalena Malena Margret Melkorka Monika Nadja Nana Nella Nina Norma Oddlaug Olga Ottilia Otta Perla Peta Petra Petrea Petronella Rakel Rannveig Risa Renata Rut Salka Selja Sigurveig Sofía Sveindís 
+			Tamara Telma Tinna Torborg Tryggvína Una Unndís Unnur Ursilla Valdis Vendela Veronica Vivan Yana Ylva Yrsa
+		}
+		dynasty_names = {
+			Andersen Bender Bergmann Bernhoeft Bloendal Briem Claessen Clausen Duus Eldjarn Ellingsen Finsen Gnarr Gudjohnsen Haarde Hansen Hjaltalin Hjaltested Jensen Johnsen Joergensen Kaaber Kragh Kvaran Kuld Malmquist 
+			Michelsen Morthens Moeller Nielsen Nordahl Olsen Petersen Riis Scheving Schioeth Schram Sigurdsson Stephensen Thorarensen Thorlacius Thoroddsen Vidalin Waage Wathne Wiium Zoega
+		}
+	}
 }
 
 british	= {
@@ -1153,6 +1214,9 @@ latin = {
 	sicilian = {
 		primary = SIC
 	}
+	corsican = {
+		primary = COR
+	}
 	maltese = {
 		primary = JAI
 		dynasty_names = {
@@ -1160,6 +1224,52 @@ latin = {
 			"de Monte" "de la Cassière" "de Vasconcellos" "de Paule" Cotoner Carafa "de Wignacourt"
 			"de Rohan-Polduc" "da Fonseca"
 		}
+	}
+	istriot = {
+		male_names = {
+			Pongo
+			Alban Arber Ardian Aplis Apludus Aplus Aplius Aelius Andabio Armatus Apurus
+			Baezo Bardylis Baro Bepo Beusas Beuzas Batona Bassegli Bobali
+			Camdus Caboga Curbania Cursulavia
+			Daor Daes Dez Dalmat Dardan Delminium
+			Histro Heracles
+			Epulo Ghetaldi Giorgi Gondola Gozze Gradi
+			Iato Ivka Ibrica Ignacio
+			Lavincia Ledrus Liber
+			Messor Madecus
+			Naren
+			Paiio Panes Panias Panius Panentius Panthia Panes Panto Pinsus Pladomenus Platino
+			Samuntio Seiio Silvanus Statanius Staticus Stato Status Sestus Sextus Sexto
+			Taulant  Teuta Tito Thana Tizius Tritus Titus
+			Varro Vidasus Vidaza
+			Andre Andreas Bisti Blaxius Calenda Clime Comes
+			Domagna Gaucoli Gauzoli Gervasius Giuco Give
+			Jugno Juliano Junius Laurenzo Leonardus Loncho Lucarus
+			Mares Marco Maroe Marinus Matheus Michael Nale Nichiforus Nicola
+			Pascalis Pasqualis Petragna Petrus Piero Perue Rassinus Rusco
+			Stane Thoma Tuone Vallius Vita
+			Adam Aguastin Alecuandur Aliau Aliard Andre Antune Antuone Blasi Buartol Bunedec Bunin Caunstantin
+			Caurnel Clemiant Crastin Cuarl Dimitre Domienc Domienja Fabri Faguor Fiaurens Filip Frane
+			Giorgi Guaspar Jacop Jiolian Joan Jualb Liaun Marc Marjan Matei Mihial Mouro Muerten Nadual Nicaul
+			Paladen Piar Ponsio Puol Puoskal Raimaun Savjan Simaun Sismaun Stanislau Sthepan Taumas Taumasin
+			Teodor Timotei Vait Valdemaur Vidual Vittaur
+		}
+		female_names = {
+			Perdita
+			Ane Aneta Ante Anka Albina Augustina Amaica Amaura Alecuandra Amilja Andreja
+			Bepina Blanca Bruva Buni Catriana Cauleta Caunstantina Cvita Ibrica Ivka
+			Joana Lucia Krysto Matija Manda Nicauleta Pernica Piara Puola
+			Antolina Antonia Anussa Babalio Bodacia Catarena Caterina Clara Clara
+			Drase Dea Descia Deia Deussa Elena Eloija Fiaura Filippa Helene Giva
+			Jachussa Jacobica Jelussa Laurica Lene Helene
+			Magdalena Magdalena Margerita Margaret Maria Mauressa Micha Mira Nicoletta Nixa
+			Rade Rado Regina Regina Rossa Rosa Schimosa Thome Viola Vele Vittaurja
+		}
+	}
+	friulian = {
+		primary = AQU
+	}
+	romansch = {
 	}
 	male_names = {
 		Abbondanzio Abbondio Abelardo Abelino Achille Adalberto Adelfo Adelmio Adelmo Adone 
@@ -1447,6 +1557,34 @@ iberian	= {
 			Raisa Randa Safiya Salma Shakira Suraya Tahira Tarifa Thashim Umm Wahida Yasmin Zahida Zahra
 		}
 	}
+	extremaduran = {
+		dynasty_names = {
+			"de Trastámara" "de Guzmán" "Álvarez de Toledo" "de la Cerda" "de Castilla" "de Valencia"
+			Téllez-Girón "Manrique de Lara" "de Ávalos" Enríquez "Osuna" "Argavieso" Ruspoli "Lasso de la Vega" "de Hoyos" Zayas "de Alcalá"
+			#CK2
+			"de Menezes" "de Mendoza" "de Niebla" "de Silva" "de Alba" "de Borja"  
+			"de Medinaceli" "de Castro" "de Haro" "Santcliment" "de Altamira" Osorio
+			Zúñiga "de Villahermosa" Vilafermosa Garmendia "de Rocamora" "de Goyeneche"
+		}
+		male_names = {
+			Enrique Fernando Juan Felipe Alfonso Carlos Sancho Ramiro Pedro Alonso Álvaro Baltasar 
+			Bernardo Bertrán Hernando
+			Cristobal Diego Domingo Esteban Fadrique Francisco García Gómez Gonzalo Gutierre Hermenegildo 
+			Ignacio Laín Lope Miguel Nuño Odón Ramón Rodrigo Tomás Valeriano
+			Alfonso Alphonse Alonso Alphonse Álvar Oliver Álvaro Oliver Bermudo Vermudo Diego Diaco 
+			Henry Fadrique Frederick Felipe Fruela Froila  Gil 
+			Egidius Guillén Guillermo Juan 
+			Lupo Luis Manrique Martín Martin Munio Ordoño 
+			Obeko Pelayo Pelagius Roderick Salvador 
+			Tello Vela Suero Oveco
+		}
+		female_names = {
+			Aldonza Anderquina Beatriz Berenguela Berengaria Blanca Constanza 
+			Elvira Estefanía Fronilda Gontroda Gotruda Inés Agnes 
+			Elisabeth Jimena Ximena Juana Joan Leonor Eleanor Mafalda Matilda María Marina Marine 
+			Mayor Mencía Milia Emily Sancha Teresa Toda Urraca Isabela
+		}
+	}
 	portugese = {
 		primary = POR
 		dynasty_names = {
@@ -1578,6 +1716,49 @@ french	= {
 	}
 	quebecois = {
 		primary = QUE
+	}
+	arpitan = {
+		primary = DAU
+	}
+	provencal = {
+		primary = PRO
+		dynasty_names = {
+			"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+			"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+			#CKII Frankish
+			"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+			"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+			"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+			"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+			"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+			"de Vaudemont" "de Nicolaÿ"
+		}
+		male_names = {
+			Édouard Érrard Étienne Adémar Adrien Aimery Alain 
+			Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
+			Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+			Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
+			Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
+			Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+			Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+			Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+			Thierry Thomas Valeran Yves
+		}
+		female_names = {
+			Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
+			Agnès Aléarde Alice Aliénor Agathe
+			Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
+			Béatrice Béatrix Belleassez Benoîte Bérengère
+			Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+			Charlotte Constance Denise Douce Echive Eglantine
+			Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
+			Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+			Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
+			Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
+			Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		}
 	}
 	dynasty_names = {
 		"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
@@ -2751,6 +2932,9 @@ byzantine = {
 			Konstantine Constantina Kyra Kyriake Hypatia Zoe
 		}
 	}
+	cypriot = {
+		primary = CYP
+	}
 	dynasty_names = { 
 		Kantakouzenos Doukas Komnenos Palaiologos Laskaris Angelos Phokas
 	}
@@ -2921,21 +3105,6 @@ turkish_group = {
 			Adila Ikram            
 		}
 	}
-	uzbehk = {
-		primary = SHY
-		male_names = {
-			Abdul-Aziz Abdul-Karim Abdul-Mumin Abdul-Rahim Abdulla Abu Said Abu'l-Feiz Abu'l-Ghazi Abu'l-Khayr 
-			Abu'l-Mansur Agatay Alim Anusha Arab Muhammad Avanesh Bahadur Bakht Baqi Muhammad Budjuga Bureke 
-			Djuchi Dost Habash Hadji Hadji Muhammad Hassan Quli Haydar Imam Quli Ilbars Irdana Isfandiyar Isim 
-			Janibek Kal Khudayar Khudaydad Kochkunju Muhammad Muhammad Amin Muhammad Hakim Muhammad Rahim Nadir 
-			Muhammad Narbuta Navruz Ahmad Niyaz Pir Muhammad Sanjar Sevinch Shadi Shahmurad Shahrukh Shaykh 
-			Subhan Quli Sufyan Suleyman Tahir Timur Ubaydulla Umar Vali Vali Muhammad Yadgar Daniyal Haidar 
-			Iskandar
-		}
-		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
-		}
-	}
 	turkmeni = {
 		primary = KHI
 		dynasty_names = {
@@ -2954,22 +3123,6 @@ turkish_group = {
 		}
 		female_names = {
 			Hooda Malaika Munira Rabiya Rafiqa Ksyusha Sabina Zarina Hatyra Gulnaza Selbi Aziza Jeren Zeynab Myahri
-		}
-	}
-	uyghur = {
-		primary = KAS
-		male_names = {
-			Abdul-Karim Abdul-Latif Abdul-Rashîd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Temür Buzan 
-			Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Temür Eljigidey Esen Buqa Ilbars Ilyas Ismail 
-			Khabul Khizr Könchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
-			Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu 
-			Temür Tughlugh Temür Uwais Yasa'ur Yesu Mongke Yesun Temür Yunus Chagatay Tarmashirin Negübei Qara 
-			Kebek Yahballaha 
-		}
-		female_names = {
-			Sakina Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
-			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene "Fatima" "Ibtisam" "Jalila" "Janan" 
-			"Layla" "Sakina" "Sharifa"
 		}
 	}
 	male_names = {		
@@ -3313,6 +3466,24 @@ maghrebi = {
 			Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght 
 		}
 	}
+	tuareg = {
+		primary = AIR
+		dynasty_names = {
+			Magsharen Stanbulewa "Ait Loaien" "Dag Rali" Iregenaten
+			"Kel Rela" "Kel Silet" Taituq "Tgéhé Millet" "Kel Afella"
+			"Kel Taghlit" "Kel Essouk" "Kel Ouzzeyn" Ifergoumessen Iriyaken
+			"Taghat Mellet" Idnan
+		}
+		male_names = {
+			Agg-Abba al-Amin al-Wali al-Mu'min Uthman Agg-A'isha Humad Guma al-Adil ad-Dani al-Baqiri Waffa Ibrahim 
+			Waffa al-Qadir ar-Raffa ad-Dusuki Mikitan ar-Rahman Umaru ag-Ibrahim Salah al-Khir Yunus Ag Mama al-Hajj 
+			Ahmad Aytarel Attici Musa Akhamuk Meslar Bayy
+		}
+		female_names = {
+			"Tin Hinan" Takama Tanteflest Tarayna Aygul Aygün AylIn Aynur Aysel Fatma FIdan Firuza Gulnar Gulnara 
+			Günay Günel Konul Leyla Parvana Parvin Sevda SevInc SevInj Tarana Vüsala Zemfira Zeynab
+		}
+	}	
 	dynasty_names = {
 		"al-Ilighi" "al-Tadsi" "Zayyanid"
 	}
@@ -3604,6 +3775,36 @@ iranian	= {
 			Bavandid Eshaqvand
 		}
 	}
+	tajik = {
+		primary = TRS
+		male_names = {
+			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek Babak Bahman 
+			Behrad Behram Bahram Behrouz Bextîyar Bakhtiar Bozorg Cehandar Jahandar Cehangir Jahangir
+			Cehanšah Jahanshah Cemšîd Jamshid Cevid Javeed Danûš Danush Darab Daryûš Darius Davud David 
+			Ebrahim Abraham Efrasiyab Afrasiyab Efšer Afshar Ehmed Ahmad Ehsan Zaman
+			Ekber Akbar Elî Ali Enûširwan Anushirvan Erdehan Ardahan Erdewan Ardavan Erdešîr Ardeshir 
+			Esfendiyar Esfandiar Mir Ways Humayun Ahmad Timur Shoja al-Mulk Muhammad Shoja Fath Jang Shahpur 
+			Eskander Alexander Ešot Ashot Eyyub Ayyub Feramez Faramarz Feraz Faraz Fath Ferhad Farhad 
+			Ferhan Farhan Ferheng Farhang Feriburz Fariborz Ferîd Farid
+			Ferîdun Feridun Ferux Farroukh Feruxzad Farrukhzad Ferzad Farzad Fezl Fadl Fezlun Fadlun 
+			Firdews Ferdows Ghobad Gholam Godarz Goštasp Goshtasb Hezarhesp Hazarasp Hafez Hedayat
+			Hesen Hasan Hisên Hussein Hormoz Hosen Hossein Humayun Hurmiz Hormazd Îsmaîl Ismail Kambiz 
+			Kamran Keyghobad Keyxusrew Keykhosrau Kâvus Kavoos
+			Kûrušê Cyrus Mamlan Muhammad Mashad Mehmûd Mahmud Mehrab Mehrzad Mensûr Mansur Menûçihr 
+			Manuchihr Menûšihr Manushihr Merwan Marwan Merzuban Marzuban Mesûd Masud
+			Mihemed Muhammad Mîrza Mirza Mistefa Mustafa Murad Morad Morteza Mozaffar Nard Naveed Nawid 
+			Nesir Nazir Mahmud Ayub
+			Nesr Nasr Nezam Nošîrwan Nawshirwan Nêçîrvan Nechirwan Parviz Pujman Pêšeng Pashang Pîroz Peroz 
+			Revend Rawwad Reza Ruhollah Rustam Rostam Sadri Salman Sina Surxap Surkhab Tahmasp Tahmasb
+			Vahhab Vahid Vahusdan Wahustan Vali Varšasp Varshasb Vîštap Vishtasb Xarmandar Kharmandar 
+			Xašayar Khashayar 
+			Xuršîd Khurshid Xusrew Khosrau Xušyar Hooshyar Xwedadad Khodadad Xwedayar Khudayar Yezîd Yazid 
+			Yousef Zahak Zakaria Zand Zerdešt Zartosht Zia
+			Šadî Shadhi Šahab Shahab Šahbaz Shahbaz Šahenšah Shahanshah Šahin Shahin Šahram Shahram Šahryar 
+			Shahryar Šahrux Shahrokh Šahruz Shahruz Šapur Shapur Šarvin Sharwin Šawur Shavur Šayan Shayan 
+			Šîrkûh Shirkuh
+		}
+	}
 	dynasty_names = {
 		Afsharid Zand Qajar Qoli Zahedi Talish Safavid Zulqadr Shamlu Sahandlu Zanganeh
 		Zaman Ustajlu Tekkelu Jaberi Khuzani Kujuji Ordubadi Khalifeh Karaki 
@@ -3611,6 +3812,85 @@ iranian	= {
 }
 
 altaic = {
+	khazak = {
+		primary = KZH
+		male_names = {
+			Abilghazi Abilmambet Abulay Abulkhayr Ahmat Ayshwak Arunghazi Barak Batir Bokey Bulat Burunduq 
+			Erali Esim Ghubaydulla Haqnazar Jangir Janibek Jantore Jarmuhambet Jolbaris Kenesari Kerey Mamash 
+			Qaratay Qasim Qayip Sameke Sherghazi Shighay Tahir Tauke Tawekel Tugum Wali Buydash Nurali
+		}
+		female_names = {
+			Hayfa Aisara Asem Aisulu Aizhan Aikorkem Aisha Aiganim Aisaule Aigul Ainur Agila Ademi Ajar Aziza Aida Aibala 
+			Aibanu Aibarsha Aigerim Aidana Aizhamal Aizharkyn Aizada Aiman Aina Ainagul Ainash Aisana Aishagul Aishat Aim 
+			Aimgul Aimzhan Akbota Akjamal Akkenje Akmaral Aksamal Aktolkin Aktoty Aliya Alia Alma Altyn Altynai Altingul 
+			Alua Albina Alfia Amangul Amina Anar Anargul Aray Arai Araylim Arailym Aru Arujan Asel Asemgul Asiya Asyl Asil 
+			Asylgul Ayagoz Ayajan Ayazhan Bazargul Bakyt Balbike Balzhan Balziya Balkiya Balym Banu Bayan Bibigul Bibinur 
+			Bota Botagoz Botakoz Damilia Damira Dana Danagul Daniya Dariga Dariya Diana Didar Didara Dilara Dilyara Dilda 
+			Dilya Dina Dinara Enlik Erke Erkejan Farida Fariza Fatima Fatiha Gaziza Galiya Gaukhar Gul Gulayim Gulbarshin 
+			Gulbahram Gulim Gulnaz Gulbanu Guldana Guldariga Guldaria Guljazira Guljaina Guljan Gulzada Gulziya Gulmarzhan 
+			Gulmira Gulnur Gulsara Gulsezim Gulsim Gulshat Gulshakhar Hadisha Halila Halima Hamida Hanifa Hanshayim Hanym 
+			Hatima Iltipat Inabat Inju Indira Inkar Irada Jadyra Jazira Jayna Jaina Jamal Jamilya Janar Jangul Janiya Janna 
+			Janat Jansaule Jansaya Jansulu Jarkin Jarkynai Jibek Juldiz Juldyz Jumagul Jumakiz Jupar Kamila Kamshat Karima 
+			Karina Kenje Klara Kulimjan Kulyan Kumis Kunsulu Laura Leyla Luiza Lyazzat Magripa Madina Maira Maya Maqpal 
+			Malika Manshuk Maral Marzhan Marjan Maria Mariyam Mahabbat Marhabbat Meyirgul Mirgul Meyramgul Meruert Mira 
+			Munira Nagima Nazgul Nazira Nazim Nazym Nasibeli Nurai Nurbike Nurgul Nurjamal Nurjanat Nurziya Nuriya Nursulu 
+			Oryngul Perizat Qazyna Qalamqas Qaljan Qalima Qamaria Qaragoz Qarashash Qarlygash Qundyz Quralai Qymbat Rabiga 
+			Raziya Raisa Raygul Raykhan Raushan Raya Rizagul Rita Roza Sabira Sagida Sagimgul Saida Sayra Sakypjamal Salima 
+			Saltanat Samal Sandigul Sandugash Sara Saule Saya Sayagul Shakizat Shakira Shara Shahzada Sholpan Shynar Shinar 
+			Sveta Senim Sezim Sulu Sulujan Sulushash Symbat Talshin Tamara Tanzilya Tansholpan Tatti Togjan Tolganai 
+			Tomiris Tursin Tursinai Tursingul Uazira Ulbala Ulbolsyn Uldana Uljan Umit Umitjan Venera Zaida Zamzagul Zamira 
+			Zarina Zaure Zauresh Zeyne Zeynep Zemfira Zere Zlikha Zoya Zubaira Zulfia Zukhra Zlika
+		}
+	}
+	kirgiz = {
+		primary = CHG
+		male_names = {
+			Abdul-Karim Abdul-Latif Abdul-Rashîd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Temür Buzan 
+			Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Temür Eljigidey Esen Buqa Ilbars Ilyas Ismail 
+			Khabul Khizr Könchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
+			Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu 
+			Temür Tughlugh Temür Uwais Yasa'ur Yesu Mongke Yesun Temür Yunus Tarmashirin Negübei Qara Kebek 
+			Chagatay
+		}
+		female_names = {
+			Mandughai Hoelun Tamülün Kokachin Beki Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka 
+			Doquez-khatum Goland Ho'elun Khultulun  Qamish Orqina Sorghaghtani Toregene "Fatima" "Ibtisam" "Jalila" "Janan" Sakina
+		}
+	}
+	uyghur = {
+		primary = KAS
+		male_names = {
+			Abdul-Karim Abdul-Latif Abdul-Rashîd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Temür Buzan 
+			Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Temür Eljigidey Esen Buqa Ilbars Ilyas Ismail 
+			Khabul Khizr Könchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
+			Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu 
+			Temür Tughlugh Temür Uwais Yasa'ur Yesu Mongke Yesun Temür Yunus Chagatay Tarmashirin Negübei Qara 
+			Kebek Yahballaha 
+		}
+		female_names = {
+			Sakina Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene "Fatima" "Ibtisam" "Jalila" "Janan" 
+			"Layla" "Sakina" "Sharifa"
+		}
+	}
+	uzbehk = {
+		primary = SHY
+		male_names = {
+			Abdul-Aziz Abdul-Karim Abdul-Mumin Abdul-Rahim Abdulla Abu Said Abu'l-Feiz Abu'l-Ghazi Abu'l-Khayr 
+			Abu'l-Mansur Agatay Alim Anusha Arab Muhammad Avanesh Bahadur Bakht Baqi Muhammad Budjuga Bureke 
+			Djuchi Dost Habash Hadji Hadji Muhammad Hassan Quli Haydar Imam Quli Ilbars Irdana Isfandiyar Isim 
+			Janibek Kal Khudayar Khudaydad Kochkunju Muhammad Muhammad Amin Muhammad Hakim Muhammad Rahim Nadir 
+			Muhammad Narbuta Navruz Ahmad Niyaz Pir Muhammad Sanjar Sevinch Shadi Shahmurad Shahrukh Shaykh 
+			Subhan Quli Sufyan Suleyman Tahir Timur Ubaydulla Umar Vali Vali Muhammad Yadgar Daniyal Haidar 
+			Iskandar
+		}
+		female_names = {
+			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+}
+
+mongol_group = {
 	graphical_culture = muslimgfx
 
 	mongol = {
@@ -6167,7 +6447,6 @@ japanese_g = {
 	}
 }
 
-
 tibetan_group = {
 	graphical_culture = asiangfx
 	tibetan = {
@@ -6218,6 +6497,9 @@ tibetan_group = {
 			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
 		}
 	}
+}
+
+miao_group = {
 	miao = {
 		primary = CMI
 		dynasty_names = {
@@ -6235,7 +6517,6 @@ tibetan_group = {
 		}
 	}
 }
-
 
 malay = { 
 	graphical_culture = southeastasiangfx
@@ -7124,32 +7405,6 @@ eastern_aryan = {
 			Devavati Devi Ahiylya Gandharavati "Malika Bibi" "Kamala"
 		}
 	}
-	pahari = {
-		primary = GHR
-		dynasty_names = {
-			Chand Parmar Prakash Katoch
-		}
-	}
-	nepali = {
-		primary = NPL
-		dynasty_names = {
-			"Malla" "Ghorka" Limbu
-		}
-		male_names = {
-			Jayajyotimalla Jayayakshamalla Ratmamalla Suryamalla Amaramalla Narendramalla Mahendramalla Sadashivamalla 
-			Shivasimhamalla Lakshminarasimhamalla Pratapamalla Jayanripendramalla Parthivendramalla Bhupendramalla 
-			Bhaskaramalla Mahendrasimhamalla Jayaprakasamalla Bhimsen Amar Singh Ranjur Singh Bhakti
-		}
-		female_names = {
-			Devaladevi Kaushalyawati Rajendralakshmi Maiya Nanu Nani Maya Pragya Anu Chameli Nirmala Anushka Sarmila Komal 
-			Rita Kamala Goma Srijana Bhawana Pramila Saraswati Laxmi Ganga Radha Radhika Krishna Bishnu Sarita Kalpana 
-			Shanti Aayusha Ramita Gita Sita Sangita Mira Ranjita Ranju Manju Punam Maili Kaili Saili Jamuna Shova Pratiksha 
-			Sanjila Anita Nilam Nira Urmila Kopila Pavitra Iswari Khusbhu Rina Junu Tika Kali Rasmi Rupa Puja Aarati 
-			Mankumari Dhankumari Bechani Mangita Uru Lalita Rekha Prabha Shushila Laila Renu Muna Amrita Seti Gauri 
-			Kaushilya Rama Madhu Madhurima Renuka Chandrakala Fulkumari Indrakala Sabitri Archana Kamana Puspa Putali 
-			Suntali Dipa Ambika Dipshika Sabita Suravi Ramabati Mainabati Kabita Champa Kusum Rampyari
-		}
-	}
 	oriya = {
 		primary = ORI
 		dynasty_names = {
@@ -7191,47 +7446,6 @@ eastern_aryan = {
 			Lakshmikaradevi Lilavati Mahadevi Nayanadevi Rajasundari Ratnavati Suvrata Syamadevi Vakula 
 			Vakulamahadevi Vasumati Vijnanavati Vijnayavati Yajiyavati Yajnavati Giriraj Kumari Suratarangini Devi 
 			Krishnapriya Bishnupriya Tikayet Devi
-		}
-	}
-	sinhala = {
-		primary = CEY
-		dynasty_names = {
-			"Kotteid" "Konnapu Bandara" "Gampolan" "Savulu"
-		}
-		male_names = {
-			Parakramabahu Jayabahu Bhuvanaikabahu Vijayabahu Dharmapalabahu Vimala Dharmasuriya Senarut Rajasimha 
-			Narenda Sri Vijaya Rajasimha Kitri Sri Rajasimha Sri Rajadhiraja Simha Dhatmapala
-			Agabala Aggabodhi Agibuti Ananda Anikanga Apaya Arittha Avirada Ayasmantha Bhuvanekabahu 
-			Butisamana Chodaganga Dahamsena 
-			Danamitta Dappula Dathappabhuti Dathopatissa Dharmapala Dharmasena Dharmasoka Dhatusena 
-			Digakassapa Diganaguli 
-			Digasumana Gajabahu Hadaka Hadana Hujata Jayabahu Jetthatissa Jhotisena Kashyapa Kassapa Kitti 
-			Kittisena Kittivarma 
-			Magamitta Mahadeva Mahanaga Mahasattha Mahasena Mahasiva Mahinda Manavanna Mihidala Mihindala 
-			Mitta Moggallana 
-			Nandamitta Narendra Narendrasinha Nirmala Padita Parakkamabahu Parakramabahu Rajasinha Rakasala 
-			Ratana Rohaka 
-			Sadhatissa Sagala Saliya Sanghamitta Sanghatissa Sankha Sena Senarat Sidata Sigaratissa 
-			Silameghavanna Sinhabahu 
-			Siva Sobana Sobika Sudata Sumana Surakita Suratissa Tissa Udaya Upatissa Vassaba Vebeliya 
-			Vepali Vijayabahu 
-			Vikrama Vikrama Vikramabahu Vimaladharma Vimaladharmasuriya Virabahu Viranarendra
-		}
-		female_names = {
-			Abijliguta Ahali Anula Anurada Anuradi Anuridi Asadaguta Asali Aselaya Ata Barani Bodhideva 
-			Bohodevi Butadata 
-			Cadana Citadevi Citaguta Damadina Damaguta Damarajha Damarakita Damaruci Damasena Damati Damika 
-			Damutara 
-			Devanakata Devanapiya Devarakita Dhamarajha Dhamika Jhita Jhotisena Jhotiya Kalyanavati 
-			Kanadasika Kanaguta 
-			Kanatissa Kitaka Kituka Kubira Kumara Kumaradata Kumaratiha Lasani Lilavati Maga Magha Maka 
-			Maki Mita Nagadina 
-			Narayaguta Nuga Nugaya Paduma Palikada Pamatissa Purushadata Pusamitta Rajhita Ramadata 
-			Ramajhata Ramani 
-			Rasumiliya Reva Sagara Samidata Samudaguta Savera Seneya Silmini Siriguta Siripali Sivala 
-			Sivanabuti Somali Sugula 
-			Sujhata Sumanadevi Suri Suriguta Tisi Tissabuti Tissadata Tissadevi Tissamita Tissaraka 
-			Tissarakita Yahasaya Yahasini Sunetra Devi Kalyanavati Swarnamanikya 
 		}
 	}
 }
@@ -7297,23 +7511,6 @@ hindusthani = {
 			Amro Anokhi Anup Begum Bhani Dani Gujri Jodhabai Khivi Kishan 
 			Lachmi Nanaki Nihal Ramo Sabhirai Sahib Sulakhni Sundari Tripta
 			"Chand Kaur" "Ratan Kaur" "Kanwal Kaur" "Datar Kaur" "Nand Kaur" "Mahtab"
-		}
-	}
-	kashmiri = {
-		primary = KSH
-		dynasty_names = {
-			"Shah Miri" "Sayyidi" "Mirrani"
-			#CK2
-			"Ladakhi"
-		}
-		male_names = {
-			"Sikandar" "Ali Shah" "Zayn al-'Abidin" "Haydar Shah" "Hasan Shah" "Muhammad Shah" "Sayyid Hassan" "Fath Shah" "Ibrahim Shah"
-			"Nazuk Shah" "Shams ad-Din" "Ismail Shah" "Ghazi Shah" "Husayn Shah" "Yusuf Shah" 
-			"Lohir Shah" "Nabib Shah" "Ya'qub Shah" "Ibrahim" "Hassan" "Nazuk" "Yusuf" "Ya'qub" "Muhammad" "Ali" 
-			"Ismail" "Gulab" "Ranbir" "Hari" "Pratap" "Kishore" "Zorawar" "Jonaraja" "Prajna" "Hamza"
-		}
-		female_names = {
-			"Kota" "Sibaia" "Tara Devi"
 		}
 	}
 	male_names = {
@@ -7419,6 +7616,47 @@ western_aryan = {
 			Desaladevi Hariyadevi Laxmidevi Madhavi Mahalakshmi Mahidevi Manaladevi Mayanalladevi Namalladevi 
 			Padmaladevi Padmini Prasadhanadevi Pratha Rasaladevi Rudaladevi Rudrani Rupadevi Samyukta Sidhawa 
 			Somalladevi Suhava Sundaridevi Tihunaka Udayamati
+		}
+	}
+	dhivehi = {
+		primary = DGL
+		dynasty_names = {
+			"Kotteid" "Konnapu Bandara" "Gampolan" "Savulu"
+		}
+		male_names = {
+			Parakramabahu Jayabahu Bhuvanaikabahu Vijayabahu Dharmapalabahu Vimala Dharmasuriya Senarut Rajasimha 
+			Narenda Sri Vijaya Rajasimha Kitri Sri Rajasimha Sri Rajadhiraja Simha Dhatmapala
+			Agabala Aggabodhi Agibuti Ananda Anikanga Apaya Arittha Avirada Ayasmantha Bhuvanekabahu 
+			Butisamana Chodaganga Dahamsena 
+			Danamitta Dappula Dathappabhuti Dathopatissa Dharmapala Dharmasena Dharmasoka Dhatusena 
+			Digakassapa Diganaguli 
+			Digasumana Gajabahu Hadaka Hadana Hujata Jayabahu Jetthatissa Jhotisena Kashyapa Kassapa Kitti 
+			Kittisena Kittivarma 
+			Magamitta Mahadeva Mahanaga Mahasattha Mahasena Mahasiva Mahinda Manavanna Mihidala Mihindala 
+			Mitta Moggallana 
+			Nandamitta Narendra Narendrasinha Nirmala Padita Parakkamabahu Parakramabahu Rajasinha Rakasala 
+			Ratana Rohaka 
+			Sadhatissa Sagala Saliya Sanghamitta Sanghatissa Sankha Sena Senarat Sidata Sigaratissa 
+			Silameghavanna Sinhabahu 
+			Siva Sobana Sobika Sudata Sumana Surakita Suratissa Tissa Udaya Upatissa Vassaba Vebeliya 
+			Vepali Vijayabahu 
+			Vikrama Vikrama Vikramabahu Vimaladharma Vimaladharmasuriya Virabahu Viranarendra
+		}
+		female_names = {
+			Abijliguta Ahali Anula Anurada Anuradi Anuridi Asadaguta Asali Aselaya Ata Barani Bodhideva 
+			Bohodevi Butadata 
+			Cadana Citadevi Citaguta Damadina Damaguta Damarajha Damarakita Damaruci Damasena Damati Damika 
+			Damutara 
+			Devanakata Devanapiya Devarakita Dhamarajha Dhamika Jhita Jhotisena Jhotiya Kalyanavati 
+			Kanadasika Kanaguta 
+			Kanatissa Kitaka Kituka Kubira Kumara Kumaradata Kumaratiha Lasani Lilavati Maga Magha Maka 
+			Maki Mita Nagadina 
+			Narayaguta Nuga Nugaya Paduma Palikada Pamatissa Purushadata Pusamitta Rajhita Ramadata 
+			Ramajhata Ramani 
+			Rasumiliya Reva Sagara Samidata Samudaguta Savera Seneya Silmini Siriguta Siripali Sivala 
+			Sivanabuti Somali Sugula 
+			Sujhata Sumanadevi Suri Suriguta Tisi Tissabuti Tissadata Tissadevi Tissamita Tissaraka 
+			Tissarakita Yahasaya Yahasini Sunetra Devi Kalyanavati Swarnamanikya 
 		}
 	}
 	parsi = {
@@ -7658,6 +7896,47 @@ western_aryan = {
 		}
 		female_names = {
 			"Qudsia" "Hajjah" "Shahjahan Begum" Amro Anokhi Anup Bhani Dani Gujri Jodhabai Khivi Kishan
+		}
+	}
+	sinhala = {
+		primary = CEY
+		dynasty_names = {
+			"Kotteid" "Konnapu Bandara" "Gampolan" "Savulu"
+		}
+		male_names = {
+			Parakramabahu Jayabahu Bhuvanaikabahu Vijayabahu Dharmapalabahu Vimala Dharmasuriya Senarut Rajasimha 
+			Narenda Sri Vijaya Rajasimha Kitri Sri Rajasimha Sri Rajadhiraja Simha Dhatmapala
+			Agabala Aggabodhi Agibuti Ananda Anikanga Apaya Arittha Avirada Ayasmantha Bhuvanekabahu 
+			Butisamana Chodaganga Dahamsena 
+			Danamitta Dappula Dathappabhuti Dathopatissa Dharmapala Dharmasena Dharmasoka Dhatusena 
+			Digakassapa Diganaguli 
+			Digasumana Gajabahu Hadaka Hadana Hujata Jayabahu Jetthatissa Jhotisena Kashyapa Kassapa Kitti 
+			Kittisena Kittivarma 
+			Magamitta Mahadeva Mahanaga Mahasattha Mahasena Mahasiva Mahinda Manavanna Mihidala Mihindala 
+			Mitta Moggallana 
+			Nandamitta Narendra Narendrasinha Nirmala Padita Parakkamabahu Parakramabahu Rajasinha Rakasala 
+			Ratana Rohaka 
+			Sadhatissa Sagala Saliya Sanghamitta Sanghatissa Sankha Sena Senarat Sidata Sigaratissa 
+			Silameghavanna Sinhabahu 
+			Siva Sobana Sobika Sudata Sumana Surakita Suratissa Tissa Udaya Upatissa Vassaba Vebeliya 
+			Vepali Vijayabahu 
+			Vikrama Vikrama Vikramabahu Vimaladharma Vimaladharmasuriya Virabahu Viranarendra
+		}
+		female_names = {
+			Abijliguta Ahali Anula Anurada Anuradi Anuridi Asadaguta Asali Aselaya Ata Barani Bodhideva 
+			Bohodevi Butadata 
+			Cadana Citadevi Citaguta Damadina Damaguta Damarajha Damarakita Damaruci Damasena Damati Damika 
+			Damutara 
+			Devanakata Devanapiya Devarakita Dhamarajha Dhamika Jhita Jhotisena Jhotiya Kalyanavati 
+			Kanadasika Kanaguta 
+			Kanatissa Kitaka Kituka Kubira Kumara Kumaradata Kumaratiha Lasani Lilavati Maga Magha Maka 
+			Maki Mita Nagadina 
+			Narayaguta Nuga Nugaya Paduma Palikada Pamatissa Purushadata Pusamitta Rajhita Ramadata 
+			Ramajhata Ramani 
+			Rasumiliya Reva Sagara Samidata Samudaguta Savera Seneya Silmini Siriguta Siripali Sivala 
+			Sivanabuti Somali Sugula 
+			Sujhata Sumanadevi Suri Suriguta Tisi Tissabuti Tissadata Tissadevi Tissamita Tissaraka 
+			Tissarakita Yahasaya Yahasini Sunetra Devi Kalyanavati Swarnamanikya 
 		}
 	}
 }
@@ -8192,25 +8471,7 @@ sahelian = {
 			Waheeda Wahida Widad Yasmeen Yusra Zaahira Zahia Zahida Zahira Zahra Zahrah Zaida Zaina Zainab Zakiah 
 			Zakiya Zakiyya Zaray Zayna Zaynab Zinat Zubaida Zulaykha Zulekha
 		}
-	}
-	tuareg = {
-		primary = AIR
-		dynasty_names = {
-			Magsharen Stanbulewa "Ait Loaien" "Dag Rali" Iregenaten
-			"Kel Rela" "Kel Silet" Taituq "Tgéhé Millet" "Kel Afella"
-			"Kel Taghlit" "Kel Essouk" "Kel Ouzzeyn" Ifergoumessen Iriyaken
-			"Taghat Mellet" Idnan
-		}
-		male_names = {
-			Agg-Abba al-Amin al-Wali al-Mu'min Uthman Agg-A'isha Humad Guma al-Adil ad-Dani al-Baqiri Waffa Ibrahim 
-			Waffa al-Qadir ar-Raffa ad-Dusuki Mikitan ar-Rahman Umaru ag-Ibrahim Salah al-Khir Yunus Ag Mama al-Hajj 
-			Ahmad Aytarel Attici Musa Akhamuk Meslar Bayy
-		}
-		female_names = {
-			"Tin Hinan" Takama Tanteflest Tarayna Aygul Aygün AylIn Aynur Aysel Fatma FIdan Firuza Gulnar Gulnara 
-			Günay Günel Konul Leyla Parvana Parvin Sevda SevInc SevInj Tarana Vüsala Zemfira Zeynab
-		}
-	}		
+	}	
 	senegambian = {
 		primary = JOL
 		dynasty_names = {
@@ -9144,53 +9405,117 @@ tartar	= {
 			Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima Halima
 		}
 	}
-	khazak = {
-		primary = KZH
-		male_names = {
-			Abilghazi Abilmambet Abulay Abulkhayr Ahmat Ayshwak Arunghazi Barak Batir Bokey Bulat Burunduq 
-			Erali Esim Ghubaydulla Haqnazar Jangir Janibek Jantore Jarmuhambet Jolbaris Kenesari Kerey Mamash 
-			Qaratay Qasim Qayip Sameke Sherghazi Shighay Tahir Tauke Tawekel Tugum Wali Buydash Nurali
-		}
-		female_names = {
-			Hayfa Aisara Asem Aisulu Aizhan Aikorkem Aisha Aiganim Aisaule Aigul Ainur Agila Ademi Ajar Aziza Aida Aibala 
-			Aibanu Aibarsha Aigerim Aidana Aizhamal Aizharkyn Aizada Aiman Aina Ainagul Ainash Aisana Aishagul Aishat Aim 
-			Aimgul Aimzhan Akbota Akjamal Akkenje Akmaral Aksamal Aktolkin Aktoty Aliya Alia Alma Altyn Altynai Altingul 
-			Alua Albina Alfia Amangul Amina Anar Anargul Aray Arai Araylim Arailym Aru Arujan Asel Asemgul Asiya Asyl Asil 
-			Asylgul Ayagoz Ayajan Ayazhan Bazargul Bakyt Balbike Balzhan Balziya Balkiya Balym Banu Bayan Bibigul Bibinur 
-			Bota Botagoz Botakoz Damilia Damira Dana Danagul Daniya Dariga Dariya Diana Didar Didara Dilara Dilyara Dilda 
-			Dilya Dina Dinara Enlik Erke Erkejan Farida Fariza Fatima Fatiha Gaziza Galiya Gaukhar Gul Gulayim Gulbarshin 
-			Gulbahram Gulim Gulnaz Gulbanu Guldana Guldariga Guldaria Guljazira Guljaina Guljan Gulzada Gulziya Gulmarzhan 
-			Gulmira Gulnur Gulsara Gulsezim Gulsim Gulshat Gulshakhar Hadisha Halila Halima Hamida Hanifa Hanshayim Hanym 
-			Hatima Iltipat Inabat Inju Indira Inkar Irada Jadyra Jazira Jayna Jaina Jamal Jamilya Janar Jangul Janiya Janna 
-			Janat Jansaule Jansaya Jansulu Jarkin Jarkynai Jibek Juldiz Juldyz Jumagul Jumakiz Jupar Kamila Kamshat Karima 
-			Karina Kenje Klara Kulimjan Kulyan Kumis Kunsulu Laura Leyla Luiza Lyazzat Magripa Madina Maira Maya Maqpal 
-			Malika Manshuk Maral Marzhan Marjan Maria Mariyam Mahabbat Marhabbat Meyirgul Mirgul Meyramgul Meruert Mira 
-			Munira Nagima Nazgul Nazira Nazim Nazym Nasibeli Nurai Nurbike Nurgul Nurjamal Nurjanat Nurziya Nuriya Nursulu 
-			Oryngul Perizat Qazyna Qalamqas Qaljan Qalima Qamaria Qaragoz Qarashash Qarlygash Qundyz Quralai Qymbat Rabiga 
-			Raziya Raisa Raygul Raykhan Raushan Raya Rizagul Rita Roza Sabira Sagida Sagimgul Saida Sayra Sakypjamal Salima 
-			Saltanat Samal Sandigul Sandugash Sara Saule Saya Sayagul Shakizat Shakira Shara Shahzada Sholpan Shynar Shinar 
-			Sveta Senim Sezim Sulu Sulujan Sulushash Symbat Talshin Tamara Tanzilya Tansholpan Tatti Togjan Tolganai 
-			Tomiris Tursin Tursinai Tursingul Uazira Ulbala Ulbolsyn Uldana Uljan Umit Umitjan Venera Zaida Zamzagul Zamira 
-			Zarina Zaure Zauresh Zeyne Zeynep Zemfira Zere Zlikha Zoya Zubaira Zulfia Zukhra Zlika
-		}
-	}
-	kirgiz = {
-		primary = CHG
-		male_names = {
-			Abdul-Karim Abdul-Latif Abdul-Rashîd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Temür Buzan 
-			Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Temür Eljigidey Esen Buqa Ilbars Ilyas Ismail 
-			Khabul Khizr Könchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
-			Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu 
-			Temür Tughlugh Temür Uwais Yasa'ur Yesu Mongke Yesun Temür Yunus Tarmashirin Negübei Qara Kebek 
-			Chagatay
-		}
-		female_names = {
-			Mandughai Hoelun Tamülün Kokachin Beki Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka 
-			Doquez-khatum Goland Ho'elun Khultulun  Qamish Orqina Sorghaghtani Toregene "Fatima" "Ibtisam" "Jalila" "Janan" Sakina
-		}
-	}
 	dynasty_names = {
 		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+	}
+}
+
+himalayan = {
+	kashmiri = {
+		primary = KSH
+		dynasty_names = {
+			"Shah Miri" "Sayyidi" "Mirrani"
+			#CK2
+			"Ladakhi"
+			"Gautam" "Ajaka" "Cedi" "Dasaratha" "Salisuka" "Satadhanva" "Gahadvala" "Dhariwal" "Jethani" 
+			"Mansukhani" "Patiala" "Malhi" "Sohota" "Varman" "Ayudha" "Yadava" "Kuru" "Matsya" "Malayaketu" 
+			"Mana" "Chanda" "Haihaya" "Sailavamsa" "Singara" "Gopala" "Baghela" "Baland"  "Bundela" "Rajgond" 
+			"Bhar" "Sonhat" "Chaulukya" "Jadon" "Surasena" "Dahiya" "Mir" "Yayvapala" "Khichar" 
+			"Gahirawar" "Kalachuri"
+		}
+		male_names = {
+			"Sikandar" "Ali Shah" "Zayn al-'Abidin" "Haydar Shah" "Hasan Shah" "Muhammad Shah" "Sayyid Hassan" "Fath Shah" "Ibrahim Shah"
+			"Nazuk Shah" "Shams ad-Din" "Ismail Shah" "Ghazi Shah" "Husayn Shah" "Yusuf Shah" 
+			"Lohir Shah" "Nabib Shah" "Ya'qub Shah" "Ibrahim" "Hassan" "Nazuk" "Yusuf" "Ya'qub" "Muhammad" "Ali" 
+			"Ismail" "Gulab" "Ranbir" "Hari" "Pratap" "Kishore" "Zorawar" "Jonaraja" "Prajna" "Hamza"
+			Achalraj Achalraja Achalraja Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal Anangpala 
+			Anangpala Anangpala Anupapala Anupapala 
+			Anuppal Anupapala "Apara Gangeya" Arjunpal Arjunpala Arjunpala Arjunpala Arjunavarman Bacchdev 
+			Bachraj Baghpal Baghpala Baghpala Baghpala 
+			Bahadur-Singh Beejpal Beejpala Beejpala Beejpala Bhaadar Bhilpala Bhoj Bhoja Bhoja Bhoja 
+			Bhojavarman Bhoja Bhopal Bhumpal Bhumpala 
+			Bhumpala Bhumpala Birpal Birpala Birpala Birpala Bisaldeva Brahmadeva Brahmapala Brahmdevpal Chand 
+			Devapala Devavarman Dhanga Dhanga 
+			Dhangadeva Dhanga Dharmapala Dhaulshaya Dilipapala Dilipapala Dilippal Dilipapala Doth Draupad 
+			Draupada Draupada Draupada Dugarendra 
+			Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal Gopala Gopala Gopala Govindachandra 
+				Govindapala Govindaraja Govindaraja Govindraj Govindaraja
+			Hamir Hammiravarman Harpal Harsa Harsa Harshapala Harsa Hirapal Hirapala Hirapala Hirapala Indrapal 
+			Indrapala Indrapala Indrapala Ishtpala 
+			Jaganpal Jaganpala Jaganpala Jaganpala Jagatpal Jagatpala Jagatpala Jagatpala Jagdev Jagdeva 
+			Jagdeva Jagdeva Jaidas Jaipal Jaitugideva Jasapala Jasapala 
+			Jaspal Jasapala Jatanpal Jatanpala Jatanpala Jatanpala Jayapala Jayasakti Jayasimha Jayavarman 
+			Jhetpal Jhetpala Jhetpala Jhetpala Junpala 
+			Kailaspal Kailaspala Kailaspala Kailaspala Kalkurna Kalyanachandra Kakhopal Kakhopala Kakhopala 
+			Kakhopala Kamal Kanhad Kanvarpal Kanvarpala 
+			Kanvarpala Kanvarpala Karnpal Keeratdeva Khadag Khetrapal Khetrapala Khetrapala Khetrapala Kiratpal 
+			Kiratpala Kiratpala Kiratpala Krishnray 
+			Krsnapa Kumarapala Kunwar Kunwar Kunwarpal Kunwar Ladahachandra Lakshmandeva Lokpala Madanapala 
+			Madanavarman Maharana Mahendrapal Mahendrapala 
+			Mahendrapala Mahendrapala Mahipal Mahipala Mahipala Mahipala Mahipata Mahlakadeva Mandandeva 
+			Mangaldeva Margdeva Mihira Nagapala Nagdeo Nannuka 
+			Naravarman Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj 
+			Pritampal Pritampala Pritampala Pritampala Prithipala 
+			Prithvi Prithvi Prithvipal Prithvi Prithviraj Prithviraja Prithviraja Prithviraja Prithvivarman 
+			Rahila Rajapala Rajyapala Ramabhadra Ramachandra 
+			Rampal Rampala Rampala Rampala Rana Rangraj Rangraja Rangraja Rangraja Ratnapala Rijhpala 
+			Roshandeva Salivaahan Sallaksanavarman Saugandeva Shurapala 
+			Sisupal Sisupala Sisupala Sisupala Sohanpal Somasi Someshvara Sonpal Sonpala Sonpala Sonpala 
+			Srichandra Subhatavarman Sukhinpal Sukhinpala 
+			Sukhinpala Sukhinpala Sulakshanpal Sultanpal Sultanpala Sultanpala Sultanpala Surajpal Surajpala 
+			Surajpala Surajpala Traillokyachandra Tejapala Tejpal 
+			Tejpal Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva Vachhal 
+			Vakpati Vapyata Varshapala Varshapala Varshpal Varshapala 
+			Vasudev Vidurathpal Vidurathpala Vidurathpala Vidurathpala Vidyadhara Vigrahapala Vigraharaja 
+			Vihangpal Vijayapala Vijayasakti Vinayakapala Vindhyavarman 
+			Viramdeva Viravarman Virsinghadeva Yasovarman
+		}
+		female_names = {
+			"Kota" "Sibaia" "Tara Devi"
+			Akal Anantadevi Damayanti Dattadevi Dehanagadevi Dhruvadevi Dhruvasvamini Hemavati 
+			Kakanvati Kalayandevi Kanchuka Kanwar Karmavati Kumaradevi Lakshman Maharani Mahidevi Nattadevi
+			Prabhavati Prabhavatigupta Prasadhanadevi Puppadevi Rajamati Sanyukta Shrimitradevi Aadi Abhirati Aditi Adya Agrata Ahalya Ahisma Ajaya Alka Amaravati Amba Ambar Ambika Ambrosia Amhi Amhika Amma Amritha Anahita Anala Ananda Ananta Anasuya Anga Angirasa Anila Annapurna Anumati Apala Apsaras Arpana Aruna Arundhati Arya Avani Avasa Avatara Baka Ballari Behula Bela Bha Bhadraa Bhagiratha Bharati Bhikkhuni Bhimadevi Bhu Bhudevi Brinda Chamunda Chanda Chandi Chandra Changla Channa Charumati Chhaya Chitra Corona Daeva Dakini Dakshina Damayanti Daru Denali Deva Devaki Devamatar Devayani Devi Devika Dharani Dharma Diti Div Divya Drisana Durga Ellora Eshana Gambhiri Gandhari Ganesa Garima Garuda Garudi Gatha Gaura Gauri Gayatri Gita Guri Haimati Hanita Hara Hariti Harsha Hema Hetal Indi Indira Indra Indrani Indumati Ishana Ishani Jaganmata Jamuna Janna Jarita Jaya Jayanti Jayne Jivanta Jui Jyotika Jyotis Kadru Kailasa Kala Kali Kalinda Kalindi Kalli Kallie Kamala Kamana Kanan Kantha Kanya Karka Karma Karuna Kasi Kaveri Kavindra Kerani Kesava Khasa Kiran Kirati Kiri Kirsi Kirtana Kirti Komala Krodha Kumari Kumuda Kumudavati Kunti Laasya Lajila Laksha Lakshmi Lakya Lalasa Lalita Lanka Latika Lavanya Leya Madhur Madri Mahadevi Mahamari Mahesa Maheshvari Mahila Maina Makara Malini Mallika Manasa Manda Mandara Manju Marisha Matrika Meena Meghana Mehadi Minda Mira Mrinal Muniya Nanda Nandini Narmada Natesa Nayana Neeja Neema Nidra Niloufer Nipa Nirveli Nisha Nitara Niyati Odra Ojal Omana Opal Padma Pallavi Pandara Pandita Parvani Pinga Pishachi Pithasthana Prabha Pramlocha Premala Quasar Rachana Radha Raja Rajni Ramya Ran Rana Rane Ranee Rani Rania Rashmika Rati Ratna Ravati Rekha Riddhi Rohana Rohini Ruana Rubaina Ruma Rupali Sakari Sakina Sakra Sakujna Samvarta Sandhya Saniya Sanjna Sany Sara Sarama Sarisha Sati Satya Satyavati Saura Savarna Savitari  Seema Sevita Sevti Shaibya Shakini Shakra Shakti Shalin Shanata Shanta Shanti Shapa Sharada Sharama Sharvani Shashi Shasti Shitala Shraddha Shri Shyla Sita Sitara Sohalia Soma Subha Suchi Sumana Sumitra Sundari Sunila Supriya Sur Sur Tamanna Tanaya Tanika Tanuja Tapati Tara Taraka Tarala Tarannum Tarika Tira Tirtha Trisha Trishna Trisna Triveni Tulsi Uma Umika Upala Ura Urvi Usha Ushas Uttara Vac Vach Vairocana Vallari Vandana Varana Varaza Varouna Varsha Varuna Varunani Vasanti Vayu Vedas Vema Vijaya Vilina Vina Vinata Vinaya Vineeta Viveka Vivika Yamuna Yasiman Yasmine Yauvani Zahra Zudora
+		}
+	}
+	pahari = {
+		primary = GHR
+		dynasty_names = {
+			Chand Parmar Prakash Katoch
+		}
+		male_names = {
+			Jayajyotimalla Jayayakshamalla Ratmamalla Suryamalla Amaramalla Narendramalla Mahendramalla Sadashivamalla 
+			Shivasimhamalla Lakshminarasimhamalla Pratapamalla Jayanripendramalla Parthivendramalla Bhupendramalla 
+			Bhaskaramalla Mahendrasimhamalla Jayaprakasamalla Bhimsen Amar Singh Ranjur Singh Bhakti
+		}
+		female_names = {
+			Devaladevi Kaushalyawati Rajendralakshmi Maiya Nanu Nani Maya Pragya Anu Chameli Nirmala Anushka Sarmila Komal 
+			Rita Kamala Goma Srijana Bhawana Pramila Saraswati Laxmi Ganga Radha Radhika Krishna Bishnu Sarita Kalpana 
+			Shanti Aayusha Ramita Gita Sita Sangita Mira Ranjita Ranju Manju Punam Maili Kaili Saili Jamuna Shova Pratiksha 
+			Sanjila Anita Nilam Nira Urmila Kopila Pavitra Iswari Khusbhu Rina Junu Tika Kali Rasmi Rupa Puja Aarati 
+			Mankumari Dhankumari Bechani Mangita Uru Lalita Rekha Prabha Shushila Laila Renu Muna Amrita Seti Gauri 
+			Kaushilya Rama Madhu Madhurima Renuka Chandrakala Fulkumari Indrakala Sabitri Archana Kamana Puspa Putali 
+			Suntali Dipa Ambika Dipshika Sabita Suravi Ramabati Mainabati Kabita Champa Kusum Rampyari
+		}
+	}
+	nepali = {
+		primary = NPL
+		dynasty_names = {
+			"Malla" "Ghorka" Limbu
+		}
+		male_names = {
+			Jayajyotimalla Jayayakshamalla Ratmamalla Suryamalla Amaramalla Narendramalla Mahendramalla Sadashivamalla 
+			Shivasimhamalla Lakshminarasimhamalla Pratapamalla Jayanripendramalla Parthivendramalla Bhupendramalla 
+			Bhaskaramalla Mahendrasimhamalla Jayaprakasamalla Bhimsen Amar Singh Ranjur Singh Bhakti
+		}
+		female_names = {
+			Devaladevi Kaushalyawati Rajendralakshmi Maiya Nanu Nani Maya Pragya Anu Chameli Nirmala Anushka Sarmila Komal 
+			Rita Kamala Goma Srijana Bhawana Pramila Saraswati Laxmi Ganga Radha Radhika Krishna Bishnu Sarita Kalpana 
+			Shanti Aayusha Ramita Gita Sita Sangita Mira Ranjita Ranju Manju Punam Maili Kaili Saili Jamuna Shova Pratiksha 
+			Sanjila Anita Nilam Nira Urmila Kopila Pavitra Iswari Khusbhu Rina Junu Tika Kali Rasmi Rupa Puja Aarati 
+			Mankumari Dhankumari Bechani Mangita Uru Lalita Rekha Prabha Shushila Laila Renu Muna Amrita Seti Gauri 
+			Kaushilya Rama Madhu Madhurima Renuka Chandrakala Fulkumari Indrakala Sabitri Archana Kamana Puspa Putali 
+			Suntali Dipa Ambika Dipshika Sabita Suravi Ramabati Mainabati Kabita Champa Kusum Rampyari
+		}
 	}
 }
 
