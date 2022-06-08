@@ -86,15 +86,12 @@ italy_region = {
 
 north_german_region = {
 	areas = { 
-		erzgebirge_area
 		south_saxony_area
 		northern_saxony_area
 		thuringia_area
 		neumark_area
 		mittelmark_area
 		vorpommern_area
-		bohemia_area
-		moravia_area
 		hinter_pommern_area
 		north_rhine_area
 		lower_rhineland_area
@@ -107,6 +104,7 @@ north_german_region = {
 		mecklenburg_area
 		braunschweig_area
 		lusatia_area
+		palatinate_area
 	}
 }
 
@@ -129,8 +127,11 @@ south_german_region = {
 		upper_swabia_area
 		upper_rhineland_area
 		romandie_area
-		palatinate_area
+		
 		alsace_area
+		bohemia_area
+		erzgebirge_area
+		moravia_area
 	}
 }
 
@@ -220,6 +221,7 @@ baltic_region = {
 		curonia_area
 		west_prussia_area
 		east_prussia_area
+		pomerelia_area
 		samogitia_area
 	}
 }
@@ -279,6 +281,7 @@ balkan_region = {
 		albania_area
 		silistria_area
 		slavonia_area
+		aegean_archipelago_area
 	}
 }
 
@@ -355,7 +358,6 @@ anatolia_region = {
 		dulkadir_area
 		cukurova_area
 		ankara_area
-		aegean_archipelago_area
 		germiyan_area
 	}
 }
