@@ -1,6 +1,5 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 333;4559;sea;1300;-1;-1;-1;-1;Majorca-Minorca
-4560;333;sea;1295;-1;-1;-1;-1;Ibiza-Majorca
 366;4565;sea;1471;-1;-1;-1;-1;Canaries
 6;12;sea;1258;3008;1633;3000;1630;Skåne-Sjaelland
 12;14;sea;1258;2980;1631;2975;1631;Sjaelland-Fyn
@@ -11,7 +10,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 123;124;sea;1307;3050;1286;3045;1284;Calabria-Messina
 151;316;sea;1320;3261;1343;3258;1344;Thrace-Bithynia
 911;945;sea;1662;1479;1656;1478;1650;Menominee-Michigan
-1;1930;sea;1928;3099;1736;3111;1740;Stockholm-Åland
 1930;27;sea;1253;3131;1745;3140;1750;Åland-Finland
 142;144;sea;1311;3115;1314;3121;1317;Janina-Corfu
 4699;1773;sea;1312;3141;1293;3141;1289;Janina-Achaea
@@ -64,7 +62,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2587;2521;sea;1661;1530;1620;1515;1618;Odawa-Okouara
 2587;1001;sea;1661;1511;1656;1510;1660;Odawa-Soto
 2576;2578;sea;1490;-1;-1;-1;-1;Mingan-Anticosti
-249;4121;sea;1284;-1;-1;-1;-1;Ayrshire-Ulster
 536;2100;sea;1340;4044;796;4050;793;Madurai-Vanni
 2803;502;sea;1522;-1;-1;-1;-1;Orinoco Delta-Trinidad
 500;499;sea;1522;-1;-1;-1;-1;St Vincent-St Lucia
@@ -76,12 +73,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 631;2693;sea;1355;-1;-1;-1;-1;Bali-Lombok
 2693;632;sea;1355;-1;-1;-1;-1;Lombok-Sumbawa
 632;633;sea;1355;4666;511;4675;512;Sumbawa-Flores
-633;2695;sea;1401;4749;514;4758;512;Flores-East Timor
 2716;4796;sea;1357;4714;569;4712;575;Buton-Kendari
 2700;4351;sea;1397;-1;-1;-1;-1;Cebu-Panay
 4353;4355;sea;1402;4765;804;4761;811;Leyte-Caraga
 2700;4350;sea;1397;4708;838;4702;846;Panay-Mindoro
-4356;4350;sea;1395;-1;-1;-1;-1;Taytay-Mindoro
 646;647;sea;1401;-1;-1;-1;-1;Ambom-Ceram
 2678;622;sea;1361;4446;618;4443;617;Banka-Palembang
 2686;4815;sea;1361;4434;664;4430;666;Bintan-Johor
@@ -104,8 +99,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 4383;96;sea;1269;-1;-1;-1;-1;South Holland-Zeeland
 95;96;sea;1269;-1;-1;-1;-1;Breda-Zeeland
 90;96;sea;1269;-1;-1;-1;-1;Flanders-Zeeland
-112;4729;sea;1308;-1;-1;-1;-1;Venice-Padua
-112;111;sea;1308;-1;-1;-1;-1;Venice-Friuli
 130;4753;sea;1308;-1;-1;-1;-1;Istria-Zara
 54;55;sea;1268;-1;-1;-1;-1;Stade-Oldenburg
 54;1775;sea;1268;-1;-1;-1;-1;Stade-Holstein
