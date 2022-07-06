@@ -126,6 +126,7 @@ war_exhaustion = {
 	land_morale = -0.01 # added
 	naval_morale = -0.01 # added
 	reduced_liberty_desire = -2 #added
+	liberty_desire = -1
 }
 
 #For convenience, its multiplied by negative piety in code.
