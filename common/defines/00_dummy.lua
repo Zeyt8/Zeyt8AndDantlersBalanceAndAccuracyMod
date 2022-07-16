@@ -29,6 +29,9 @@ NDefines.NCountry.PS_NAVAL_BARRAGE = 40 -- from 50
 NDefines.NCountry.PS_GARRISON_SORTIES = 5 -- from 10
 NDefines.NCountry.PS_FORCE_MARCH = 1 -- from 2
 
+NDefines.NCountry.PS_CHANGE_CULTURE = 15
+NDefines.NCountry.MONTHS_TO_CHANGE_CULTURE = 15
+
 -- NEconomy --
 
 -- Custom defines to increase army and navy maintenance

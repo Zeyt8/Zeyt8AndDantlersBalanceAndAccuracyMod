@@ -1,0 +1,5 @@
+﻿l_english: 
+ RB_EVT1_NAME:0 "Stability Lost!" 
+ RB_EVT1_DESC:0 "Our country is shattering! Nobles are defecting to neighbouring courts, our bureaucrats are fleeing with stolen taxes and our military has taken to looting the countryside. No matter how expensive, no matter the cost, we must wrest back control of our country from rioting bands."
+ RB_DISASTER_OK:0 "We must act!"
+ rb_country_collapse:0 "Country Collapse"
