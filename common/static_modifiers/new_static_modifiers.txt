@@ -34,7 +34,7 @@ base_values = {
 }
 
 tropical = {
-	local_colonial_growth = -15 # from 10
+	local_colonial_growth = -15 # from -10
 	supply_limit_modifier = -0.3
 	local_hostile_attrition = 2
 
@@ -44,7 +44,7 @@ tropical = {
 }
 
 arctic = {
-	local_colonial_growth = -15 # from 10
+	local_colonial_growth = -15 # from -10
 	supply_limit_modifier = -0.4
 	local_hostile_attrition = 1
 
@@ -55,7 +55,7 @@ arctic = {
 }
 
 arid = {
-	local_colonial_growth = -15 # from 10
+	local_colonial_growth = -15 # from -10
 	supply_limit_modifier = -0.2
 	local_hostile_attrition = 1
 
