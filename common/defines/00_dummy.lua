@@ -50,9 +50,6 @@ NDefines.NEconomy.MERCENARY_COMPANY_MAX_REGIMENTS = 40 -- from 60
 
 -- NMilitary -- 
 
--- Custom defines to nerf slacken recruitment
-NDefines.NMilitary.SLACKEN_AP_DROP = 0.075 -- from 0.05
-
 -- Custom defines to buff cavalry
 NDefines.NMilitary.CAVALRY_COST = 23 -- from 25
 

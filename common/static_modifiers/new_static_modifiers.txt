@@ -123,8 +123,8 @@ war_exhaustion = {
 	sailors_recovery_speed = -0.01
 	siege_ability = -0.01
 	global_trade_goods_size_modifier = -0.02
-	land_morale = -0.01 # added
-	naval_morale = -0.01 # added
+	land_morale = -0.005 # added
+	naval_morale = -0.005 # added
 	reduced_liberty_desire = -2 #added
 	liberty_desire = -1
 }
