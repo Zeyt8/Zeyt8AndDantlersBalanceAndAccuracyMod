@@ -1,0 +1,34 @@
+player_invite_to_offensive = {
+	category = alliance
+
+	require_acceptance = yes
+
+	is_visible = {
+		ai = no
+		FROM = {
+			ai = no
+		}
+	}
+
+	is_allowed = {
+        ai = no
+		FROM = {
+			ai = no
+		}
+		is_at_war = yes
+		is_in_war = {
+			attacker_leader = ROOT
+		}
+		NOT = { war_with = FROM }
+	}
+
+	on_accept = {
+        FROM = {
+            join_all_offensive_wars_of = ROOT
+        }
+	}
+
+	ai_will_do = {
+		always = no
+	}
+}

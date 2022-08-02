@@ -1,0 +1,37 @@
+client_vassal = {
+	copy_from = vassal
+	count = vassal
+	
+	# Graphics:
+	diplomacy_overlord_sprite = GFX_diplomacy_leadclients
+	diplomacy_subject_sprite = GFX_diplomacy_areclients
+
+	# Properties:
+	created_by_overlord = yes
+	takes_diplo_slot = no
+
+	base_liberty_desire = -25.0
+	liberty_desire_revolution = 0
+
+	# Subject Interactions:
+	customize_subject = yes
+}
+
+client_march = {
+	copy_from = march
+	count = march
+
+	# Graphics:
+	diplomacy_overlord_sprite = GFX_diplomacy_leadclients
+	diplomacy_subject_sprite = GFX_diplomacy_areclients
+
+	# Properties:
+	created_by_overlord = yes
+	takes_diplo_slot = no
+
+	base_liberty_desire = -40.0
+	liberty_desire_revolution = 0
+
+	# Subject Interactions:
+	customize_subject = yes
+}
