@@ -105,11 +105,6 @@ tolerance = {
 	local_missionary_strength = -0.01 # added
 }
 
-scorched_earth = {
-	local_hostile_attrition = 1 # added
-	local_hostile_movement_speed = -0.50
-}
-
 war_exhaustion = {
 	global_unrest = 1
 	global_regiment_recruit_speed = 0.02
@@ -224,14 +219,4 @@ high_army_professionalism = {
 	# penalties
 	land_maintenance_modifier = 0.25
 	loot_amount = -0.5
-}
-
-over_governing_capacity_modifier = {
-	stability_cost_modifier = 1.0
-	ae_impact = 0.5
-	improve_relation_modifier = -0.5
-	core_creation = 0.2
-	advisor_cost = 1.0
-	monthly_militarized_society = -1.0
-	yearly_corruption = 0.5 # added
 }
