@@ -69,14 +69,6 @@ land_province = {
 	local_manpower_modifier = 0.25			#25% of manpower.
 }
 
-blockaded = {
-	regiment_recruit_speed = 0.2
-	ship_recruit_speed = 0.2
-	local_monthly_devastation = 0.1
-	trade_goods_size_modifier = -0.5 # added
-    province_trade_power_modifier = -0.75 # added
-}
-
 non_accepted_culture = {
 	local_tax_modifier = -0.33
 	local_missionary_strength = -0.02
