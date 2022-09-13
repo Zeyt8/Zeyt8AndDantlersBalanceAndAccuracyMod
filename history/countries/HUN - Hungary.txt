@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = hungarian
 add_accepted_culture = slovak
+add_accepted_culture = transylvanian
 religion = catholic
 technology_group = eastern
 capital = 153 # Buda
@@ -11,6 +12,9 @@ set_estate_privilege = estate_nobles_strong_duchies
 change_estate_land_share = {
 	estate = estate_church
 	share = -5
+}
+unlock_estate_privilege = {
+	estate_privilege = estate_burghers_orthodox_tolerance
 }
 
 1387.3.31 = {
