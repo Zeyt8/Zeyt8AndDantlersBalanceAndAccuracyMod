@@ -46,6 +46,7 @@ NDefines.NEconomy.MERCENARY_COMPANY_MAX_REGIMENTS = 40 -- from 60
 
 -- Custom defines to buff cavalry
 NDefines.NMilitary.CAVALRY_COST = 23 -- from 25
+NDefines.CAVALRY_BREAKTHROUGH = 0.1 -- from 0.0
 
 -- Custom defines to make combat faster:
 NDefines.NMilitary.DAYS_PER_PHASE = 2 -- from 3

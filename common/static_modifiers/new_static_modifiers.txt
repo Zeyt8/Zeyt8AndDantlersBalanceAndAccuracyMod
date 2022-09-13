@@ -203,7 +203,7 @@ inverse_republican_tradition = {
 # completely changed
 high_army_professionalism = {
 	discipline = 0.10
-	siege_ability = 0.25
+	siege_ability = 0.20
 	army_tradition = 1
 	movement_speed = 0.2
 	drill_decay_modifier = -0.5
