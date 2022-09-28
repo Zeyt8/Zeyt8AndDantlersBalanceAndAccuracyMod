@@ -1,5 +1,5 @@
 name="Zeyt8AndDantlersBalanceAndAccuracyMod"
-picture="thumbnail.jpeg"
+picture="thumbnail.png"
 tags={
 	"Balance"
 }
