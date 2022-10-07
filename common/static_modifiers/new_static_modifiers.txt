@@ -177,29 +177,6 @@ root_out_corruption = {
     mamluks_loyalty_modifier = -0.1
 }
 
-republican_tradition = {
-	global_unrest = -2
-	rr_jacobins_influence = 0.1
-	reform_progress_growth = 1.0
-	burghers_loyalty_modifier = 0.05
-	vaisyas_loyalty_modifier = 0.05
-
-	#added
-	tolerance_own = 1
-    tolerance_heathen = 1
-    tolerance_heretic = 1
-}
-
-inverse_republican_tradition = {
-	stability_cost_modifier = 2.0
-	rr_jacobins_influence = -0.1
-
-	#added
-	tolerance_own = -1
-    tolerance_heathen = -1
-    tolerance_heretic = -1
-}
-
 # completely changed
 high_army_professionalism = {
 	discipline = 0.10
