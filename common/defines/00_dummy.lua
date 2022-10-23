@@ -41,6 +41,8 @@ NDefines.NEconomy.TREASURE_FLEET_INFLATION = 0.75 -- from 0.5
 -- Reduce mercenary late game cost --
 NDefines.NEconomy.MERCENARY_COMPANY_MAX_REGIMENTS = 40 -- from 60
 
+NDefines.NEconomy.COT_BUILDING_SLOTS = 0 -- from 2
+
 
 -- NMilitary -- 
 
