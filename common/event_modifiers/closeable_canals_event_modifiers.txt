@@ -1,3 +1,0 @@
-canal_closed = {
-	picture = "estuary_icon"
-}
