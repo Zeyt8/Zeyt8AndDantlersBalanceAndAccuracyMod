@@ -32,6 +32,8 @@ NDefines.NCountry.PS_FORCE_MARCH = 1 -- from 2
 NDefines.NCountry.PS_CHANGE_CULTURE = 15
 NDefines.NCountry.MONTHS_TO_CHANGE_CULTURE = 15
 
+NDefines.NCountry.COLONIAL_NATION_GROWTH_IMPACT = 0.5 -- from 1
+
 -- NEconomy --
 
 -- Custom defines to increase inflation from gold and treasure fleets
