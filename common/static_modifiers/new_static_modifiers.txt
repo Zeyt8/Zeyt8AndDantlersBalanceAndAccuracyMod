@@ -33,48 +33,9 @@ base_values = {
 
 }
 
-tropical = {
-	local_colonial_growth = -15 # from -10
-	supply_limit_modifier = -0.3
-	local_hostile_attrition = 2
-
-	local_development_cost = 0.1
-
-	picture = "climate_tropical"
-}
-
-arctic = {
-	local_colonial_growth = -15 # from -10
-	supply_limit_modifier = -0.4
-	local_hostile_attrition = 1
-
-	allowed_num_of_buildings = -1
-	local_development_cost = 0.5
-
-	picture = "climate_arctic"
-}
-
-arid = {
-	local_colonial_growth = -15 # from -10
-	supply_limit_modifier = -0.2
-	local_hostile_attrition = 1
-
-	local_development_cost = 0.1
-
-	picture = "climate_arid"
-}
-
 land_province = {
 	max_attrition = 10						#Maximum Attrition is 10, from 5
 	local_manpower_modifier = 0.25			#25% of manpower.
-}
-
-non_accepted_culture = {
-	local_tax_modifier = -0.33
-	local_missionary_strength = -0.02
-	local_manpower_modifier = -0.33
-	local_sailors_modifier = -0.2
-	local_unrest = 3					#from 2
 }
 
 devastation = {
@@ -114,17 +75,6 @@ war_exhaustion = {
 	naval_morale = -0.005 # added
 	reduced_liberty_desire = -2 #added
 	liberty_desire = -1
-}
-
-#For convenience, its multiplied by negative piety in code.
-negative_piety = { #As of 1.23 Mysticism
-	land_morale = 0.10
-	global_missionary_strength = 0.03
-	defensiveness = 0.20
-	brahmins_muslim_loyalty_modifier = 0.1
-	church_loyalty_modifier = -0.1
-	dhimmi_loyalty_modifier = 0.1
-	global_manpower_modifier = 0.1 # added
 }
 
 # Scaled, multiplied by current corruption / 100
