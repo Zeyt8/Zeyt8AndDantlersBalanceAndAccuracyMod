@@ -11,7 +11,6 @@ NDefines.NCountry.REGULAR_COLONY_GROWTH = 20 -- from 25
 -- Custom defines to increase state maintenance
 NDefines.NCountry.STATE_MAINTENANCE_DISTANCE_FACTOR = 0.002 -- from 0.001
 NDefines.NCountry.STATE_MAINTENANCE_CULTURE_FACTOR = 0.35 -- from 0.25
-NDefines.NCountry.STATE_MAINTENANCE_DEV_FACTOR = 0.007 -- not changed
 NDefines.NCountry.STATE_MAINTENANCE_CONTINENT_FACTOR = 0.25 -- not changed
 
 -- Custom defines to nerf introducing new heir
@@ -24,15 +23,8 @@ NDefines.NCountry.FREE_IDEA_GROUP_COST = 4 -- from 3
 
 -- Reduce combat actions cost to make them usable --
 NDefines.NCountry.PS_ASSAULT = 5
-NDefines.NCountry.PS_ARTILLERY_BARRAGE = 40 -- from 50
-NDefines.NCountry.PS_NAVAL_BARRAGE = 40 -- from 50
 NDefines.NCountry.PS_GARRISON_SORTIES = 5 -- from 10
 NDefines.NCountry.PS_FORCE_MARCH = 1 -- from 2
-
-NDefines.NCountry.PS_CHANGE_CULTURE = 15
-NDefines.NCountry.MONTHS_TO_CHANGE_CULTURE = 15
-
-NDefines.NCountry.COLONIAL_NATION_GROWTH_IMPACT = 0.5 -- from 1
 
 -- NEconomy --
 
@@ -44,7 +36,6 @@ NDefines.NEconomy.TREASURE_FLEET_INFLATION = 0.75 -- from 0.5
 NDefines.NEconomy.MERCENARY_COMPANY_MAX_REGIMENTS = 40 -- from 60
 
 NDefines.NEconomy.COT_BUILDING_SLOTS = 0 -- from 2
-
 
 -- NMilitary -- 
 
