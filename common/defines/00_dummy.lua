@@ -22,7 +22,7 @@ NDefines.NCountry.NEW_HEIR_LEGITIMACY_HIT = -30 -- from -20
 NDefines.NCountry.FREE_IDEA_GROUP_COST = 4 -- from 3
 
 -- Reduce combat actions cost to make them usable --
-NDefines.NCountry.PS_ASSAULT = 5
+NDefines.NCountry.PS_ASSAULT = 5 -- not changed
 NDefines.NCountry.PS_GARRISON_SORTIES = 5 -- from 10
 NDefines.NCountry.PS_FORCE_MARCH = 1 -- from 2
 

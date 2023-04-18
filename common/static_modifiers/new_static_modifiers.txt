@@ -30,21 +30,24 @@ base_values = {
 	monthly_heir_claim_increase = 0.208
 	tolerance_of_heretics_capacity = 3
 	tolerance_of_heathens_capacity = 3
-
+	max_flagships = 1
+	num_of_parliament_issues = 10
 }
 
 land_province = {
 	max_attrition = 10						#Maximum Attrition is 10, from 5
 	local_manpower_modifier = 0.25			#25% of manpower.
+	local_has_musketeers = yes
+	local_has_streltsy = yes
 }
 
 devastation = {
-	trade_goods_size_modifier = -2 # from 1
+	trade_goods_size_modifier = -2
 	supply_limit_modifier = -0.5
-	local_institution_spread = -1.0
-	local_development_cost = 0.1
-	local_manpower_modifier = -1.0
-	local_sailors_modifier = -1.0
+	local_institution_spread = -2.0
+	local_development_cost = 0.2
+	local_manpower_modifier = -2.0
+	local_sailors_modifier = -2.0
 	local_hostile_movement_speed = -0.25
 	local_friendly_movement_speed = -0.25
 
@@ -71,10 +74,10 @@ war_exhaustion = {
 	sailors_recovery_speed = -0.01
 	siege_ability = -0.01
 	global_trade_goods_size_modifier = -0.02
-	land_morale = -0.005 # added
-	naval_morale = -0.005 # added
+	monthly_militarized_society = -0.05
+	recover_army_morale_speed = -0.005 # added
 	reduced_liberty_desire = -2 #added
-	liberty_desire = -1
+	liberty_desire = -1 # added
 }
 
 # Scaled, multiplied by current corruption / 100
@@ -98,8 +101,11 @@ corruption = {
 	dhimmi_loyalty_modifier = 0.1
 	jains_loyalty_modifier = 0.1
 	rajput_loyalty_modifier = 0.1
-
+	janissaries_loyalty_modifier = 0.1
+	eunuchs_loyalty_modifier = 0.1
 	monthly_heir_claim_increase = 0.025
+	monthly_russian_modernization = -1
+	monthly_ottoman_decadence = 10
 
 	#added
 	discipline = -0.5
@@ -124,7 +130,7 @@ root_out_corruption = {
     jains_loyalty_modifier = -0.1
     rajput_loyalty_modifier = -0.1
     janissaries_loyalty_modifier = -0.1
-    mamluks_loyalty_modifier = -0.1
+    eunuchs_loyalty_modifier = -0.1
 }
 
 # completely changed
