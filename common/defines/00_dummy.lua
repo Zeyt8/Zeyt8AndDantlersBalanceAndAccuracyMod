@@ -4,6 +4,8 @@
 
 -- NCountry --
 
+NDefines.NCountry.PS_ADD_ACCEPTED_CULTURE = 200 -- from 100
+
 -- Custom defines to slow down colonization:
 
 NDefines.NCountry.REGULAR_COLONY_GROWTH = 20 -- from 25
@@ -40,17 +42,23 @@ NDefines.NEconomy.COT_BUILDING_SLOTS = 0 -- from 2
 -- NMilitary -- 
 
 -- Custom defines to buff cavalry
-NDefines.NMilitary.CAVALRY_COST = 23 -- from 25
 NDefines.CAVALRY_BREAKTHROUGH = 0.1 -- from 0.0
+NDefines.NMilitary.CAVALRY_SPEED = 0.8
+NDefines.NMilitary.CAV_SUPPRESSION = 0.35
 
 -- Custom defines to make combat faster:
-NDefines.NMilitary.DAYS_PER_PHASE = 2 -- from 3
+NDefines.NMilitary.DAYS_PER_PHASE = 1 -- from 3
 NDefines.NMilitary.DAYS_PER_SIEGE_PHASE = 20 -- from 30
-NDefines.NMilitary.FRONT_LINE_MODIFIER = 1.5 -- from 1.0
-NDefines.NMilitary.BACK_LINE_MODIFIER = 0.75 -- from 0.5
-NDefines.NMilitary.CANNOT_RETREAT_DAYS = 6 -- from 12
+NDefines.NMilitary.FRONT_LINE_MODIFIER = 2 -- from 1.0
+NDefines.NMilitary.BACK_LINE_MODIFIER = 1 -- from 0.5
+NDefines.NMilitary.CANNOT_RETREAT_DAYS = 5 -- from 12
+NDefines.NMilitary.WAR_LENGTH_DAMAGE_MODIFIER = 0.02 -- from 0.01
+NDefines.NMilitary.COMBAT_DICE_SIDE = 6
+NDefines.NMilitary.LEADER_MAX_PIPS = 10
+NDefines.NMilitary.LEADER_MIN_PIPS = 3
 
 NDefines.NMilitary.SIEGE_ATTRITION = 2 -- from 1
+NDefines.NMilitary.WARSCORE_MAX_FROM_BATTLES = 60
 
 -- NAI --
 

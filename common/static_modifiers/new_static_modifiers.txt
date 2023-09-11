@@ -22,9 +22,9 @@ base_values = {
 	devotion = -0.5
 	meritocracy = -2
 	governing_capacity = 200
-	num_accepted_cultures = 3	#from 2
+	num_accepted_cultures = 4	#from 2
 	monthly_splendor = 1
-	artillery_bonus_vs_fort = 5
+	artillery_levels_available_vs_fort = 5
 	cav_to_inf_ratio = 0.5
 	merc_maintenance_modifier = 0.5
 	monthly_heir_claim_increase = 0.208
@@ -76,8 +76,8 @@ war_exhaustion = {
 	global_trade_goods_size_modifier = -0.02
 	monthly_militarized_society = -0.05
 	recover_army_morale_speed = -0.005 # added
-	reduced_liberty_desire = -2 #added
-	liberty_desire = -1 # added
+	reduced_liberty_desire = -1 #added
+	liberty_desire = -0.5 # added
 }
 
 # Scaled, multiplied by current corruption / 100
